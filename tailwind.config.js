@@ -27,16 +27,11 @@ export default {
         }
       },
       fontSize: {
-        title: {
-          'lg': '24px',
-          'md': '20px',
-          'sm': '18px',
-        },
-        text: {
-          'md': '16px',
-          'sm': '14px',
-        },
-        'link': '12px',
+        'title-lg': '1.5rem',
+        'title-md': '1.25rem',
+        'title-sm': '1.125rem',
+
+        'link': '0.75rem',
       }
     },
   },
