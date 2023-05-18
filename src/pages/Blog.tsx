@@ -3,6 +3,7 @@ import { Header } from "../components/Header";
 import { PostCard } from "../components/PostCard";
 import { ProfileCard } from "../components/ProfileCard";
 import { api } from "../services/api";
+import { Link } from 'react-router-dom'
 
 export function Blog() {
   const [postCards, setPostCards]: any = useState([])
@@ -45,7 +46,7 @@ export function Blog() {
         <div className="grid grid-cols-12 gap-8 mt-12">
           {postCards?.map((post: any) => {
             if (post.title.toLowerCase().includes(searchedPost.toLowerCase()))
-              return <PostCard post={post} />
+              return <PostCard key={post.id} post={post} />
           })}
         </div>
       </main>
