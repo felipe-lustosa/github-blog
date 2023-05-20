@@ -9,8 +9,6 @@
       <a href="https://www.linkedin.com/in/felipe-/](https://www.linkedin.com/in/felipe-lustosa-7728841b9/">
       <img alt="Felipe Lustosa" src="https://img.shields.io/badge/-Felipe Lustosa-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-    <a href="https://www.linkedin.com/in/iles-vilela-73809029/">
-      <img alt="Iles Vilela" src="https://img.shields.io/badge/-Iles Vilela-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
   <img alt="License" src="https://img.shields.io/badge/license-MIT-2A2C39">
 </p>
 
