@@ -6,18 +6,8 @@
 <p align="justify">Projeto Integrador referente ao programa de aceleração DEV FOR TECH Front End | React Gama Academy e ACATE (Associação Catarinense de Tecnologia). Aplicação React para loja de compra com carrinho para adição, incremento, decremento, exclusão de produtos. Consumindo a API do Mercado Livre para popular as opções e possibilitar filtro por categoria e pesquisa por nome.</p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/lucasfpnt/">
-      <img alt="Lucas Ferreira" src="https://img.shields.io/badge/-Lucas Ferreira-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-   <a href="https://www.linkedin.com/in/luccaseccodev/">
-      <img alt="Lucca Secco" src="https://img.shields.io/badge/-Lucca Secco-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-      <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/victorab/">
-      <img alt="Victor Amaral" src="https://img.shields.io/badge/-Victor Amaral-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-      </a>
-      <a href="https://www.linkedin.com/in/ivo-augusto/">
-      <img alt="Ivo Augusto" src="https://img.shields.io/badge/-Ivo Augusto-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
+      <a href="https://www.linkedin.com/in/felipe-/](https://www.linkedin.com/in/felipe-lustosa-7728841b9/">
+      <img alt="Felipe Lustosa" src="https://img.shields.io/badge/-Felipe Lustosa-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
    </a>
     <a href="https://www.linkedin.com/in/iles-vilela-73809029/">
       <img alt="Iles Vilela" src="https://img.shields.io/badge/-Iles Vilela-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
